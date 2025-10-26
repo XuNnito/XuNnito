@@ -53,7 +53,7 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XuNnito/XuNnito/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/39/2e/8a/392e8aef64111e0a2ed21378a6fb0686.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XuNnito/XuNnito/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/XuNnito/XuNnito/output/pacman-contribution-graph.svg">
 </picture>
